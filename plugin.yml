@@ -1,0 +1,8 @@
+name: MoreTrees
+main: MoreTrees\MoreTrees
+version: 1.0-Alpha
+author: hm
+api:
+- 1.12.0
+- 1.13.0
+- 2.0.0
